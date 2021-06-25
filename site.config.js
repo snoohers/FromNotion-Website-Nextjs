@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '0d685cbd0c7e4250844c8785d348141c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'FromNotion | Simple and Notion-friendly alternative to Website Builders for Notion Lovers',
+  domain: 'new.fromnotion.com',
+  author: 'Alexey Shashkov',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'FromNotion is a lightweight and Notion-based website builder, that lets you build websites in minutes and manage data on Notion. No design and code skills are required. Zero learning curve.',
+  socialImageTitle: 'FromNotion',
+  socialImageSubtitle: 'A Website Builder For Notion Lovers',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'fromnotion',
+  //github: 'transitive-bullshit',
+  linkedin: 'fromnotion',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
