@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Tany Savelieva',
   domain: 'tanysavelieva.me',
-  //author: 'Tany Savelieva',
+  author: 'Tany Savelieva',
 
   // open graph metadata (optional)
   description: 'Tany Savelieva',
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   //twitter: 'fromnotion',
   //github: 'transitive-bullshit',
-  //linkedin: 'fromnotion',
+  //linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
