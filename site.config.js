@@ -12,6 +12,7 @@ module.exports = {
   author: '',
 
   // open graph metadata (optional)
+  title: 'FromNotion',
   description: 'FromNotion',
   socialImageTitle: 'FromNotion',
   socialImageSubtitle: 'FromNotion',
