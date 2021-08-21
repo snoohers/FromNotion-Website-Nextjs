@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Tany Savelieva',
-  domain: 'tanysavelieva.me',
+  name: 'FromNotion',
+  domain: 'fromnotion.com',
   author: '',
 
   // open graph metadata (optional)
-  description: 'Tany Savelieva',
-  socialImageTitle: 'Tany Savelieva',
-  socialImageSubtitle: 'Tany Savelieva',
+  description: 'FromNotion',
+  socialImageTitle: 'FromNotion',
+  socialImageSubtitle: 'FromNotion',
 
   // social usernames (optional)
   //twitter: 'fromnotion',
