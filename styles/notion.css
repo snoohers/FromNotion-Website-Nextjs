@@ -42,6 +42,10 @@
     justify-content: center;
 }
 
+.notion-callout.notion-purple_background_co .notion-page-icon {
+    display: none;
+}
+
 .notion-callout.notion-purple_background_co .notion-callout-text {
     width: auto !important;
     border-radius: 5px;
