@@ -16,3 +16,10 @@
     font-size: 20px;
     text-align: center;
 }
+
+.notion-text.notion-orange_background {
+    background: transparent;
+    font-family: inherit;
+    font-size: 42px;
+    text-align: center;
+}
