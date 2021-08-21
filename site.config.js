@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Tany Savelieva',
   domain: 'tanysavelieva.me',
-  author: 'Tany Savelieva',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Tany Savelieva',
