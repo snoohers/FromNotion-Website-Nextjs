@@ -34,3 +34,10 @@
     font-size: 38px;
     text-align: center;
 }
+
+.notion-callout.notion-purple_background_co {
+    background: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    justify-content: center;
+}
