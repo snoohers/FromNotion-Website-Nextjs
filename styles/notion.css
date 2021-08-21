@@ -7,6 +7,6 @@
  * places to add some flare.
  */
  /* Hides certain elements */
-.notion-title, .nav-header, .notion-header, .notion-page-cover {
+.notion-title, .nav-header, .notion-header, .notion-page-cover, .notion-page-icon, .styles_footer__1r_c6 {
     display: none !important;
 }
