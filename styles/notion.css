@@ -10,3 +10,7 @@
 .notion-title, .nav-header, .notion-header, .notion-page-cover, .notion-page-icon, .styles_footer__1r_c6 {
     display: none !important;
 }
+
+.notion-text.notion-brown_background {
+    display: none !important;
+}
