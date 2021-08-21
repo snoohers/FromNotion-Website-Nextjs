@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'FromNotion | Simple and Notion-friendly alternative to Website Builders for Notion Lovers',
-  domain: 'new.fromnotion.com',
-  author: 'Alexey Shashkov',
+  name: 'Tany Savelieva',
+  domain: 'tanysavelieva.me',
+  //author: 'Tany Savelieva',
 
   // open graph metadata (optional)
-  description: 'FromNotion is a lightweight and Notion-based website builder, that lets you build websites in minutes and manage data on Notion. No design and code skills are required. Zero learning curve.',
-  socialImageTitle: 'FromNotion',
-  socialImageSubtitle: 'A Website Builder For Notion Lovers',
+  description: 'Tany Savelieva',
+  socialImageTitle: 'Tany Savelieva',
+  socialImageSubtitle: 'Tany Savelieva',
 
   // social usernames (optional)
-  twitter: 'fromnotion',
+  //twitter: 'fromnotion',
   //github: 'transitive-bullshit',
-  linkedin: 'fromnotion',
+  //linkedin: 'fromnotion',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
