@@ -53,3 +53,10 @@
     background: #6940a5;
     color: #f3e5f5;
 }
+
+.notion-callout.notion-purple_background_co a {
+    text-decoration: none;
+    display: block;
+    padding: 15px 20px;
+    font-weight: 500;
+}
