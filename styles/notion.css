@@ -41,3 +41,15 @@
     font-size: inherit;
     justify-content: center;
 }
+
+.notion-callout.notion-purple_background_co .notion-callout-text {
+    width: auto !important;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    transition: background 0.5s ease;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(136,144,195,0.2),0 5px 15px 0 rgba(37,44,97,0.15);
+    background: #6940a5;
+    color: #f3e5f5;
+}
