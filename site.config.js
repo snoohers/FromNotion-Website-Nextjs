@@ -12,10 +12,9 @@ module.exports = {
   author: '',
 
   // open graph metadata (optional)
-  title: 'FromNotion',
-  description: 'FromNotion',
-  socialImageTitle: 'FromNotion',
-  socialImageSubtitle: 'FromNotion',
+  description: 'FromNotion allows you to build landing pages on top of Notion. You can create content on your Notion and turn it into Landing Pages.',
+  socialImageTitle: 'FromNotion – Landing Pages On Notion',
+  socialImageSubtitle: 'Create landing page on top of Notion',
 
   // social usernames (optional)
   //twitter: 'fromnotion',
