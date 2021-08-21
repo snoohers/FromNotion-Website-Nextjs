@@ -40,6 +40,7 @@
     font-family: inherit;
     font-size: inherit;
     justify-content: center;
+    border: 0px;
 }
 
 .notion-callout.notion-purple_background_co .notion-page-icon {
