@@ -7,11 +7,6 @@
  * places to add some flare.
  */
  /* Hides certain elements */
-.notion-title {
+.notion-title, .nav-header, .notion-header {
     display: none !important;
 }
-
-.nav-header {
-    display: none !important;
-}
-
